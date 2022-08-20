@@ -1,0 +1,25 @@
+.form {
+    display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+}
+
+.form div {
+    margin: 20px;
+}
+
+.form label {
+    display: block;
+    font-size: small;
+}
+
+.form input {
+    padding: 10px 20px;
+}
+
+.form button {
+    padding: 13px 30px;
+    background: yellowgreen;
+    border: none;
+    margin: 15px 5px;
+}

@@ -1,0 +1,25 @@
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form div {
+    margin: 10px;
+}
+
+.form label {
+    display: block;
+}
+
+.form input,
+.form select {
+    padding: 10px 20px;
+}
+
+.form button {
+    background-color: orangered;
+    padding: 10px 20px;
+    border: none;
+    text-transform: uppercase;
+    color: white;
+}

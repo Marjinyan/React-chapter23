@@ -1,0 +1,40 @@
+.title {
+    text-align: center;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+
+.table {
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid gray;
+    margin: 20px auto;
+}
+
+.table th,
+.table td,
+.table tr {
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.delBtn,
+.editBtn {
+    padding: 7px 30px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none
+}
+
+.delBtn {
+    background-color: orangered;
+    color: white
+}
+
+.editBtn {
+    background-color: yellowgreen;
+}
